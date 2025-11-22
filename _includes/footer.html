@@ -1,0 +1,18 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="wrapper" style="display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:1rem;">
+    <div style="display:flex; align-items:center; gap:0.75rem;">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="COALab Logo" style="height:40px;">
+      {% endif %}
+      <div>
+        <strong>COALab</strong><br>
+        Cognition, Oral & Written Language Disorders, and AI Laboratory<br>
+        Université de Montréal &amp; CHU Sainte-Justine
+      </div>
+    </div>
+
+    <div style="font-size:0.85rem; opacity:0.8;">
+      © {{ site.time | date: "%Y" }} COALab. All rights reserved.
+    </div>
+  </div>
+</footer>
