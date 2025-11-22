@@ -10,3 +10,6 @@ title: "COALab"
 # Cognition, Oral & Written Language Disorders, and AI Laboratory (COALab)
 
 Welcome to our lab website. Content will appear here.
+<p align="center">
+  <img src="/assets/images/logo.png" alt="COALab Logo" width="220">
+</p>
