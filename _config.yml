@@ -1,1 +1,13 @@
+title: "COALab"
+subtitle: "Cognition, Oral & Written Language Disorders, and AI Laboratory"
+description: "COALab combines speech-language pathology, developmental neuroscience, and AI to study oral and written language disorders."
 
+theme: minima
+
+logo: "/assets/images/logo.png"
+
+lang: "en"
+
+# Pages to show in the top navigation bar (we’ll create these later)
+header_pages:
+  - index.md
