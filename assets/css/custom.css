@@ -35,3 +35,27 @@ body {
 h1, h2, h3 {
   font-weight: 600;
 }
+/* Make lists of people/projects look like cards */
+
+.people-list li,
+.projects-list li {
+  background-color: #ffffff;
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+}
+
+/* Links slightly more academic (less bright) */
+a {
+  color: #004b8d;
+}
+
+a:hover {
+  color: #002b5c;
+}
+
+/* Optional: make h1 on pages a bit smaller than the hero */
+.page-content h1 {
+  font-size: 1.9rem;
+}
