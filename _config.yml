@@ -11,3 +11,10 @@ lang: "en"
 # Pages to show in the top navigation bar (we’ll create these later)
 header_pages:
   - index.md
+  - people.md
+  - research.md
+  - projects.md
+  - publications.md
+  - opportunities.md
+  - news.md
+  - contact.md
