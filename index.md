@@ -47,5 +47,12 @@ Le Laboratoire sur la cognition, les troubles du langage oral et écrit et l’I
 - **Orthophonie personnalisée à l’aide de l’apprentissage par renforcement** – Concevoir des systèmes d’aide à la décision adaptatifs qui recommandent des cibles d’intervention individualisées et des séquences thérapeutiques optimales au fil du temps.
 
 - **Modèles computationnels de la dyslexie** – Élaborer et tester des modèles computationnels et statistiques afin de mieux comprendre les mécanismes linguistiques, cognitifs et perceptuels sous-jacents à la dyslexie développementale, notamment dans une perspective translinguistique.
+---
+
+<div class="cta-buttons">
+  <a href="{{ '/people/' | relative_url }}">People / Équipe</a>
+  <a href="{{ '/publications/' | relative_url }}">Publications</a>
+  <a href="{{ '/opportunities/' | relative_url }}">Join COALab / Rejoindre le COALab</a>
+</div>
 
 
