@@ -73,3 +73,87 @@ a:hover {
 .page-content h1 {
   font-size: 1.9rem;
 }
+/* People cards */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.person-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  border: 1px solid #e4e4e4;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.person-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.person-card img {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #dddddd;
+}
+
+.person-name {
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+.person-role {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.person-project {
+  font-size: 0.9rem;
+}
+
+.person-links {
+  font-size: 0.85rem;
+  opacity: 0.9;
+}
+
+/* Project cards */
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.project-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  border: 1px solid #e4e4e4;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.1rem;
+}
+
+.project-card .project-meta {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  margin-bottom: 0.4rem;
+}
+
+.project-card .project-people {
+  font-size: 0.9rem;
+}
