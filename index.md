@@ -1,8 +1,3 @@
----
-layout: home
-title: "COALab"
----
-
 <p align="center">
   <img src="/assets/images/logo.png" alt="COALab Logo" width="220">
 </p>
