@@ -22,6 +22,30 @@ title: "COALab"
 </div>
 
 ## Welcome / Bienvenue
+---
+
+## Research Highlights / Faits saillants de la recherche
+
+### English
+- **Voice-AI for early risk detection of neurodevelopmental disorders** – Developing automated speech- and language-based machine learning tools to identify early markers of communication, cognitive, and socio-emotional vulnerabilities in children before clinical challenges fully emerge.
+
+- **Neural foundations of language and executive function development in developmental language disorder** – Using fNIRS and behavioral methods to investigate how neural systems supporting language, working memory, and cognitive control develop in children with and without DLD, including in bilingual contexts.
+
+- **Personalized speech-language therapy using reinforcement learning** – Designing adaptive decision-support systems that recommend individualized intervention targets and therapy sequences to optimize learning outcomes over time.
+
+- **Computational models of dyslexia** – Building and testing computational and statistical models to understand the linguistic, cognitive, and perceptual mechanisms underlying developmental dyslexia, including cross-linguistic influences.
+
+---
+
+### Français
+- **IA vocale pour la détection précoce des troubles neurodéveloppementaux** – Développer des outils automatisés basés sur la parole et le langage afin d’identifier les premiers marqueurs de vulnérabilités communicationnelles, cognitives et socioémotionnelles chez l’enfant, avant l’apparition de difficultés cliniques manifestes.
+
+- **Fondements neuronaux du développement du langage et des fonctions exécutives dans le trouble développemental du langage** – Utiliser la spectroscopie fonctionnelle dans le proche infrarouge (fNIRS) et des mesures comportementales pour étudier comment les systèmes neuronaux soutenant le langage, la mémoire de travail et le contrôle cognitif se développent chez les enfants avec et sans TDL, y compris en contexte bilingue.
+
+- **Orthophonie personnalisée à l’aide de l’apprentissage par renforcement** – Concevoir des systèmes d’aide à la décision adaptatifs qui recommandent des cibles d’intervention individualisées et des séquences thérapeutiques optimales au fil du temps.
+
+- **Modèles computationnels de la dyslexie** – Élaborer et tester des modèles computationnels et statistiques afin de mieux comprendre les mécanismes linguistiques, cognitifs et perceptuels sous-jacents à la dyslexie développementale, notamment dans une perspective translinguistique.
+
 
 ### English
 The Cognition, Oral & Written Language Disorders, and AI Laboratory (COALab) integrates speech-language pathology, developmental neuroscience, and artificial intelligence to advance research, assessment, and intervention supporting children with communication and learning disorders.
